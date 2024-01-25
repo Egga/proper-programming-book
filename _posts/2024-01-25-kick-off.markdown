@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Kickoff!"
+date: 2024-01-25 19:59:00 +0100
+categories: announcements
+---
+
+We have created a space to gather material that we want to be published.
+
+1. This is public, because we are proud of the words we say and the actions we take,
+2. This is free, because we want this to be accessible to anyone everywhere.
+3. This is not really, fully, entirely planned through yet but more of an idea, what we want to achieve in the long
+   run...
+
+... but do not be discouraged, my friend. We are experts on TDD (Test Driven Design) and do fast iterations with small
+commits guiding us along the requirements towards our goals.
+
+### How do you Run a Marathon?
+
+One step at a time. At every point of the journey you make a single step. 80cms left, 80cms right. And repeat. If
+you do enough consecutive steps you cross the finish line. There is not a single person in the world that can run a
+marathon in a single step.
